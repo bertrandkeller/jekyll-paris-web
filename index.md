@@ -12,4 +12,6 @@ Share the love
 
 ## Actualités
 
-
+{% for post in site.posts %}
+<a href="{{ post.url }}">{{ post.url }} - {{ post.title }} - {{ post.date }}</a>
+{% endfor %}
