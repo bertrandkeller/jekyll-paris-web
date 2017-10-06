@@ -27,15 +27,15 @@ Share the love
 {% raw %}
 ```
 // Exemple de boucle
-{% for collection in site.themes %}
-  {{ collection.title }}
-  {{ collection.url }} 
+{% for theme in site.themes %}
+  {{ theme.title }}
+  {{ theme.url }} 
 {% endfor %}
 ```
 {% endraw %}
 
-{% for collection in site.collections %}
-<a href="{{ collection.url }}">{{ collection.url }}</a>
-	{{ collection.title }}
-	{{ collection.date }}
+{% for theme in site.themes %}
+<a href="{{ theme.url }}">{{ theme.url }}</a>
+	{{ theme.title }}
+	{{ theme.date }}
 {% endfor %}
