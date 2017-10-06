@@ -10,8 +10,8 @@ collections:
     output: true
 
 default:
-  - scope:
-    path:
-    type: "themes"
-  value:
-    layout: posts
+ - scope:
+     path:
+     type: "themes"
+   value:
+     layout: "post"
