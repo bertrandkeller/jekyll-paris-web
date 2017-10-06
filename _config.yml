@@ -8,10 +8,9 @@ theme: minima
 collections:
   themes:
     output: true
-
+    
 default:
  - scope:
-     path:
-     type: "themes"
+     path: "_themes"
    value:
      layout: "post"
