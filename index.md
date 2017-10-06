@@ -12,10 +12,6 @@ Share the love
 
 ## Actualité
 
-{% for post in site.posts %}
-  - [{{ post.title }}]({{ post.url }})
-{% endif %}
-
 <ul>
 {% for post in site.posts %}
 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
