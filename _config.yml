@@ -3,4 +3,4 @@ title: Paris-Web 2017
 
 # configuration
 baseurl: /jekyll-paris-web
-theme: minimal-mistakes-jekyll
+theme: minima
