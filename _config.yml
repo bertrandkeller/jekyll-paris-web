@@ -1,1 +1,6 @@
+# Description
 title: Paris-Web 2017
+
+# configuration
+baseurl: /jekyll-paris-web
+theme: null
