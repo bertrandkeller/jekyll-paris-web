@@ -1,6 +1,4 @@
----
-title: Paris Web 2017, l'accessibilité avant tout
----
+# Paris Web 2017, l'accessibilité avant tout
 
 L’accessibilité fait partie des racines de Paris Web depuis ses débuts. Pour l’édition 2017, nous avons fait de gros efforts pour pouvoir maintenir les bonnes habitudes et faire un événement accessible à tou·te·s :
 
