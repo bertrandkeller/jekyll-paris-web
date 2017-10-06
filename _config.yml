@@ -14,4 +14,4 @@ default:
     path:
     type: "themes"
   value:
-    layout: post
+    layout: posts
