@@ -10,10 +10,6 @@ Share the love
 
 7 octobre : une journée d'ateliers à la [Web School Factory à Paris](https://www.paris-web.fr/lieux/#ateliers). 
 
-## Actualité
+## Actualités
 
-<ul>
-{% for post in site.posts %}
-<li><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endif %}
-</ul>
+
