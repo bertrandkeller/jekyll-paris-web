@@ -27,7 +27,7 @@ Share the love
 {% raw %}
 ```
 // Exemple de boucle
-{% for collection in site.collections %}
+{% for collection in site.themes %}
   {{ collection.title }}
   {{ collection.url }} 
 {% endfor %}
